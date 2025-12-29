@@ -471,7 +471,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work*
+- **Gaurav SR** - *Founder*
 
 ---
 
@@ -508,4 +508,4 @@ For issues, questions, or contributions:
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by gsr
